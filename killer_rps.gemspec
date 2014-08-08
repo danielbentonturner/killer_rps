@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = KillerRps::VERSION
   spec.authors       = ["daniel"]
   spec.email         = ["demise4u@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Play Rock-Paper-Scissors}
+  spec.description   = %q{Play Rock-Paper-Scissors}
   spec.homepage      = ""
   spec.license       = "MIT"
 
