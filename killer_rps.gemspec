@@ -5,7 +5,7 @@ require 'killer_rps/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "killer_rps"
-  spec.version       = KillerRps::VERSION
+  spec.version       = KillerRPS::VERSION
   spec.authors       = ["daniel"]
   spec.email         = ["demise4u@gmail.com"]
   spec.summary       = %q{Play Rock-Paper-Scissors}
